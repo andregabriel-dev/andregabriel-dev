@@ -12,7 +12,7 @@
 <a href="mailto:andree.gabrieel@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://github.com/andregabrielmic-gif" target="_blank">
+<a href="https://github.com/andregabriel-dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -35,19 +35,15 @@ Sou desenvolvedor backend júnior com foco em **Python** e **Java**, apaixonado 
 
 <div align="center">
 
-<!-- Linguagens -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<!-- Frameworks & Ferramentas -->
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -57,10 +53,10 @@ Sou desenvolvedor backend júnior com foco em **Python** e **Java**, apaixonado 
 
 | Projeto | Descrição | Tecnologia |
 |--------|-----------|------------|
-| [App Envio](https://github.com/andregabrielmic-gif/App-envio) | Checklist para envio de computadores para manutenção | Python |
-| [Devoluções App](https://github.com/andregabrielmic-gif/devolucoes_app) | Sistema de lançamento de notas de devoluções | HTML |
-| [Controle de Estoque](https://github.com/andregabrielmic-gif/controle-estoque) | Sistema de controle de estoque | — |
-| [Palavrão](https://github.com/andregabrielmic-gif/Palavrao) | Jogo de acertar palavras | JavaScript |
+| [App Envio](https://github.com/andregabriel-dev/App-envio) | Checklist para envio de computadores para manutenção | Python |
+| [Devoluções App](https://github.com/andregabriel-dev/devolucoes_app) | Sistema de lançamento de notas de devoluções | HTML |
+| [Controle de Estoque](https://github.com/andregabriel-dev/controle-estoque) | Sistema de controle de estoque | Python |
+| [Palavrão](https://github.com/andregabriel-dev/Palavrao) | Jogo de acertar palavras | JavaScript |
 
 ---
 
@@ -68,8 +64,8 @@ Sou desenvolvedor backend júnior com foco em **Python** e **Java**, apaixonado 
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=andregabrielmic-gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregabrielmic-gif&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andregabriel-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andregabriel-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
