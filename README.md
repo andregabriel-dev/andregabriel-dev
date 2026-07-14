@@ -1,10 +1,7 @@
 <div align="center">
-
 <!-- Typing SVG animado -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Andr%C3%A9+Gabriel!+%F0%9F%91%8B;Desenvolvedor+Backend+Júnior;Python+%7C+Java+%7C+APIs+REST;Em+evolução+constante+%F0%9F%9A%80" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+André+Gabriel!+👋;Junior+Backend+Developer;Python+%7C+Java+%7C+APIs+REST;Always+evolving+🚀" alt="Typing SVG" />
 <br/>
-
 <!-- Badges de redes sociais -->
 <a href="https://www.linkedin.com/in/andré-gabriel-6a2333208/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,23 +12,23 @@
 <a href="https://github.com/andregabriel-dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou desenvolvedor backend júnior com foco em **Python** e **Java**, apaixonado por resolver problemas reais através do código. Atualmente trabalho com desenvolvimento de sistemas internos e APIs, buscando sempre evoluir e aplicar boas práticas no dia a dia.
+I'm a junior backend developer focused on **Python** and **Java**, passionate about solving real-world problems through code. I build internal systems, REST APIs, and commercial web products — most of them currently live in production.
 
-- 📍 Mauá, SP — Brasil
-- 🎯 Foco atual: Backend, APIs REST e automação
-- 📚 Sempre aprendendo e evoluindo
-- 💼 Aberto a oportunidades de emprego
+- 📍 Mauá, SP — Brazil
+- 🎯 Currently focused on: Backend, REST APIs and automation
+- 🌍 Open to remote opportunities outside Brazil
+- 📚 Always learning and evolving
+- 💼 Open to work
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -41,6 +38,7 @@ Sou desenvolvedor backend júnior com foco em **Python** e **Java**, apaixonado 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -49,30 +47,29 @@ Sou desenvolvedor backend júnior com foco em **Python** e **Java**, apaixonado 
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
-| Projeto | Descrição | Tecnologia |
-|--------|-----------|------------|
-| [App Envio](https://github.com/andregabriel-dev/App-envio) | Checklist para envio de computadores para manutenção | Python |
-| [Devoluções App](https://github.com/andregabriel-dev/devolucoes_app) | Sistema de lançamento de notas de devoluções | HTML |
-| [Controle de Estoque](https://github.com/andregabriel-dev/controle-estoque) | Sistema de controle de estoque | Python |
-| [Palavrão](https://github.com/andregabriel-dev/Palavrao) | Jogo de acertar palavras | JavaScript |
+| Project | Description | Stack | Live |
+|--------|-----------|------------|------|
+| [Returns Management System](https://github.com/andregabriel-dev/devolucoes_app) | Full workflow system for managing product returns — role-based access, PDF uploads, status tracking | Python · Flask · SQLite | [▶ Demo](https://andredevolucoes.pythonanywhere.com/) |
+| [Aurum — Jewelry E-commerce](https://github.com/andregabriel-dev/aurum) | E-commerce template with storefront and full admin panel for jewelry stores | HTML · CSS · JavaScript | [▶ Demo](https://aurum-semijoias.netlify.app/) |
+| [Travel Agency CRM](https://github.com/andregabriel-dev/crm-agencia) | CRM for managing clients and leads — built for a real travel agency | React · Vite | [▶ Demo](https://crm-agencia-beta.vercel.app) |
+| [Inventory Control System](https://github.com/andregabriel-dev/estoque_banheiro) | Web app for tracking supply stock levels with low-stock alerts | Python · Flask · SQLite | — |
+| [Palavrão](https://github.com/andregabriel-dev/Palavrao) | Brazilian Wordle-style word guessing game — vanilla JS, no dependencies | JavaScript | [▶ Play](https://palavrao.vercel.app) |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andregabriel-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andregabriel-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-*"A melhor forma de aprender é construindo."* 🚀
+*"The best way to learn is by building."* 🚀
 
 </div>
