@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a junior backend developer focused on **Python** and **Java**, passionate about solving real-world problems through code. I build internal systems, REST APIs, and commercial web products — most of them currently live in production.
+Backend Developer building REST APIs and internal business systems.
 
 - 📍 Mauá, SP — Brazil
 - 🎯 Currently focused on: Backend, REST APIs and automation
