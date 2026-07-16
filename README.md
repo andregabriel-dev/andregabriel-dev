@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Typing SVG animado -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+André+Gabriel!+👋;Junior+Backend+Developer;Python+%7C+Java+%7C+APIs+REST;Always+evolving+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+André+Gabriel!+👋;Backend+Developer;Python+%7C+Java+%7C+APIs+REST;Always+evolving+🚀" alt="Typing SVG" />
 <br/>
 <!-- Badges de redes sociais -->
 <a href="https://www.linkedin.com/in/andré-gabriel-6a2333208/" target="_blank">
